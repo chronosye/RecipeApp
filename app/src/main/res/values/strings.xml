@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="title_all_recipes">All recipes</string>
+    <string name="title_favourite_recipes">Favourite</string>
+    <string name="title_random_recipe">Random recipe</string>
+    <string name="title_recipe_details">Recipe details</string>
+
+    <string name="splash_screen_title">Recipe App</string>
+    <string name="splash_screen_image_desc">App image</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="add_recipe_image_desc">Image</string>
+    <string name="label_title">Title</string>
+    <string name="label_type">Type</string>
+    <string name="label_category">Category</string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_cooking_time">Cooking time in minutes</string>
+    <string name="label_instructions">Instructions</string>
+    <string name="label_add_recipe">Add recipe</string>
+    <string name="title_select_image_action">Select image action</string>
+    <string name="label_camera">Camera</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_no_recipes_added_yet">No recipes added yet</string>
+    <string name="label_no_favourite_recipes_added_yet">No favourite recipes yet</string>
+    <string name="action_edit_recipe">Edit recipe</string>
+    <string name="action_delete_recipe">Delete recipe</string>
+    <string name="filter_list">Filter list</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="share_recipe">Share recipe</string>
+
+    <string name="notification_title">Check out new recipes!</string>
+    <string name="notification_subtitle">Tap for more details</string>
+
+</resources>
